@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**ht11118/ht11118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BÙI VĂN QUYẾT - UNETI
+# TRƯỜNG ĐẠI HỌC KINH TẾ - KÍ THUẬT CÔNG NGHIỆP
 
 Here are some ideas to get you started:
 
